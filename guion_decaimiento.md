@@ -4,19 +4,29 @@
 > + **_Versión_**: 2022-2023
 > + **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
 
-![portada](https://github.com/aprendiendo-cosas/C_decaimiento_gesteco/raw/main/images/decaimiento.jpg) 
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_decaimiento_gesteco/main/images/decaimiento.jpg) 
 
+
+
+## Ubicación
+
+Sierra de los Filabres. Municipio de Serón (Almería)
 
 ## Introducción
-El azufaifar es un hábitat típico de regiones semiáridas en las que domina el azufaifo (*Ziziphus lotus*). Tanto su extensión como su funcionamiento se han visto notablemente reducidos en las últimas décadas en España por diversas razones. Una de las más relevantes es la introducción del ágave (*Agave americana*), que se comporta como una especie exótica e invasora. El ágave desplaza al azufaifo y hace que el hábitat en cuestión pierda capacidad de proveer servicios ecosistémicos. En esta parada analizaremos esta situación y veremos cómo algunas acciones de manejo pretenden erradicar el ágave para fomentar la regeneración de los azufaifos. [Aquí](https://www.lifeadaptamed.eu/?p=1473) puedes leer información de interés sobre este caso de estudio. 
+
+La Sierra de los Filabres es un macizo montañoso, estribación hacia el Este de la Sierra de Baza, situado en la provincia de Almería, en su mayoría Monte Público (la mayor masa forestal de Almería). Una extensión total de 170.000 Ha, de las cuales casi 29.000 Ha son de masa boscosa de pinar de repoblación (1955-1983), las especies mantienen un patrón de gradiente altitudinal en donde encontramos *Pinus sylvestris* en las zonas más altas (Calar Alto 2168 m.sn.m.), *Pinus Nigra* y *Pinus pinaster* en zonas de elevación media y *Pinus halepensis* en zonas más bajas. Barrera natural para el frenado del avance del desierto. ¿Por qué los esfuerzos de sembrar semejante bosque? ¿por qué se convierte en un importante objeto de estudio y monitoreo? ¿cómo ha evolucionado este bosque?
+
+En [este](http://www.caha.es/guindos/WEBCAM/EXTERNAS/ALL/all.html) enlace y en [este](http://www.caha.es/observing-mainmenu-148/weatherng) otro tienes información sobre el clima de la zona. 
 
 
 
 
 ## Objetivos docentes
-+ Reconocer el concepto de especie invasora y su impacto en la dinámica poblacional de especies locales.
-+ Ver in situ el concepto de competencia interespecífica.
-+ Entender con un ejemplo, el concepto de servicio ecosistémico.
++ Conocer las herramientas de restauración de ecosistemas degradados
++ Ver in situ el efecto de la competencia intraespecífica
++ Aprender técnicas de detección de plagas (el caso de la procesionaria)
++ Identificación de patrones del decaimiento de las masas forestales
++ Aprender tecnologías para la observación del decaimiento y el cambio climático
 
 
 
@@ -24,13 +34,14 @@ El azufaifar es un hábitat típico de regiones semiáridas en las que domina el
 
 Se refiere a los conceptos de la ecología que abordamos en esta parada:
 
-- Comunidades ecológicas.
-- Competencia interespecífica.
-- Especies exóticas e invasoras
+- Competencia intraespecífica.
+- Herbivoría.
+- Efecto del clima en el crecimiento de la vegetación.
+- Restauración de la vegetación.
 
 
 
-## Comentarios o reflexiones "al vuelo" (#invasoras)
+## Comentarios o reflexiones "al vuelo" (#decaimiento)
 
 
 
