@@ -18,7 +18,7 @@ La Sierra de los Filabres es un macizo montañoso, estribación hacia el Este de
 
 En [este](http://www.caha.es/guindos/WEBCAM/EXTERNAS/ALL/all.html) enlace y en [este](http://www.caha.es/observing-mainmenu-148/weatherng) otro tienes información sobre el clima de la zona. 
 
-Y para saber más sobre la historia y funcionamiento de estos pinares, puedes leer este artículo y este otro.
+Y para saber más sobre la historia y funcionamiento de estos pinares, puedes leer [este](https://github.com/aprendiendo-cosas/C_decaimiento_gesteco/raw/main/biblio/repoblaciones.pdf) artículo y [este](https://github.com/aprendiendo-cosas/C_decaimiento_gesteco/raw/main/biblio/repoblaciones_suelo.pdf) otro.
 
 
 
