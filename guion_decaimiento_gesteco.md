@@ -18,6 +18,8 @@ La Sierra de los Filabres es un macizo montañoso, estribación hacia el Este de
 
 En [este](http://www.caha.es/guindos/WEBCAM/EXTERNAS/ALL/all.html) enlace y en [este](http://www.caha.es/observing-mainmenu-148/weatherng) otro tienes información sobre el clima de la zona. 
 
+Y para saber más sobre la historia y funcionamiento de estos pinares, puedes leer este artículo y este otro.
+
 
 
 
@@ -42,6 +44,26 @@ Se refiere a los conceptos de la ecología que abordamos en esta parada:
 
 
 ## Comentarios o reflexiones "al vuelo" (#decaimiento)
+
+
+
++ Las consecuencias que hoy día podemos observar como consecuencia de plantaciones masivas y con muy poca Diversidad, observamos cómo la naturaleza se regulariza ante estas situaciones de inestabilidad ecológica #decaimiento
++ #mineria #decaimiento #gestion_local Yo la idea que he hablado un poco con Curro, es que si nos pintan una visión de futuro tan catastrófica, con algo que no podemos controlar como la temperatura y el calentamiento global, ¿por qué no se invierten en otras gestiones más aprovechables a futuro, si esto va a peor? ¿Por qué poner bosques por todos lados, porque no se intentan conservar el ecosistema de matorral que existe hoy en día?
++ #mineria #decaimiento #gestion_local Y otra cosa, con la idea que me he quedado del día de hoy, un poco enlazandolo todo, ha sido que lo mejor es una restauración del ecosistema mediterráneo, introduciendo matorral heterogeneo(como el primer paso de una sucesión ecología natural), y cuando se vea una recuperación del suelo, ya empezar con la reforestacion bien gestionada de especies diferentes mediterráneas. Muy por encima.
+
+
+
+## Algunas fotos
+
+![1](https://raw.githubusercontent.com/aprendiendo-cosas/C_decaimiento_gesteco/main/images/1.JPG)
+
+![2](https://raw.githubusercontent.com/aprendiendo-cosas/C_decaimiento_gesteco/main/images/2.JPG)
+
+![3](https://raw.githubusercontent.com/aprendiendo-cosas/C_decaimiento_gesteco/main/images/3.JPG)
+
+![4](https://raw.githubusercontent.com/aprendiendo-cosas/C_decaimiento_gesteco/main/images/4.JPG)
+
+![5](https://raw.githubusercontent.com/aprendiendo-cosas/C_decaimiento_gesteco/main/images/5.JPG)
 
 
 
