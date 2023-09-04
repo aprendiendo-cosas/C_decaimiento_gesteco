@@ -4,7 +4,7 @@
 > + **_Versión_**: 2022-2023
 > + **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_decaimiento_gesteco/main/images/decaimiento.jpg) 
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_decaimiento_gesteco/2022_2023/images/decaimiento.jpg) 
 
 
 
@@ -18,7 +18,7 @@ La Sierra de los Filabres es un macizo montañoso, estribación hacia el Este de
 
 En [este](http://www.caha.es/guindos/WEBCAM/EXTERNAS/ALL/all.html) enlace y en [este](http://www.caha.es/observing-mainmenu-148/weatherng) otro tienes información sobre el clima de la zona. 
 
-Y para saber más sobre la historia y funcionamiento de estos pinares, puedes leer [este](https://github.com/aprendiendo-cosas/C_decaimiento_gesteco/raw/main/biblio/repoblaciones.pdf) artículo y [este](https://github.com/aprendiendo-cosas/C_decaimiento_gesteco/raw/main/biblio/repoblaciones_suelo.pdf) otro.
+Y para saber más sobre la historia y funcionamiento de estos pinares, puedes leer [este](https://github.com/aprendiendo-cosas/C_decaimiento_gesteco/raw/2022_2023/biblio/repoblaciones.pdf) artículo y [este](https://github.com/aprendiendo-cosas/C_decaimiento_gesteco/raw/2022_2023/biblio/repoblaciones_suelo.pdf) otro.
 
 
 
@@ -55,15 +55,20 @@ Se refiere a los conceptos de la ecología que abordamos en esta parada:
 
 ## Algunas fotos
 
-![1](https://raw.githubusercontent.com/aprendiendo-cosas/C_decaimiento_gesteco/main/images/1.JPG)
+![1](https://raw.githubusercontent.com/aprendiendo-cosas/C_decaimiento_gesteco/2022_2023/images/1.JPG)
 
-![2](https://raw.githubusercontent.com/aprendiendo-cosas/C_decaimiento_gesteco/main/images/2.JPG)
+![2](https://raw.githubusercontent.com/aprendiendo-cosas/C_decaimiento_gesteco/2022_2023/images/2.JPG)
 
-![3](https://raw.githubusercontent.com/aprendiendo-cosas/C_decaimiento_gesteco/main/images/3.JPG)
+![3](https://raw.githubusercontent.com/aprendiendo-cosas/C_decaimiento_gesteco/2022_2023/images/3.JPG)
 
-![4](https://raw.githubusercontent.com/aprendiendo-cosas/C_decaimiento_gesteco/main/images/4.JPG)
+![4](https://raw.githubusercontent.com/aprendiendo-cosas/C_decaimiento_gesteco/2022_2023/images/4.JPG)
 
-![5](https://raw.githubusercontent.com/aprendiendo-cosas/C_decaimiento_gesteco/main/images/5.JPG)
+![5](https://raw.githubusercontent.com/aprendiendo-cosas/C_decaimiento_gesteco/2022_2023/images/5.JPG)
 
 
 
+## Vídeo realizado por los estudiantes
+
+
+
+<iframe width="560" height="515" src="https://www.youtube.com/embed/xD9zFO6azpA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
